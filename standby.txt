@@ -1,0 +1,64 @@
+Tela de cadastro de pet -> arrumar os valores dos selects; não permitir datas futuras; não permitir pesos abaixo de 0; ícone de outros
+
+Tela de serviços -> responsividade dos cards
+
+ATT: serviço_vet; servicos_aumigos;
+
+CONFERIR TUDO!!!
+
+JavaScript -> setAttribute('required', '');
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+PARTE LÉO:
+
+
+geral: 
+
+NAVBAR -> Dropdown com os serviços disponíveis
+
+BURGUER MENU -> Se sobrar tempo: inserir animação
+
+FOOTER -> Links de redes sociais (criar)
+
+CADASTROS -> Pattern / RegEx
+
+
+específicas:
+
+INDEX -> OK
+
+SOBRE -> OK
+
+BLOG -> OK
+
+CONTATO -> NO ❌ (automação)
+
+CADASTRO DE CLIENTE -> OK
+
+CADASTRO DE FUNCIONÁRIO -> OK
+
+LOGIN -> OK
+
+CADASTRO DE PET -> OK
+
+SERVIÇO BANHO -> OK
+
+SERVIÇO VETERINÁRIO -> OK
+
+SERVIÇOS AUMIGOS -> FRONT NO (modal para confirmação de seleção de aumigo) / BACK NO (conexão e inserção dos dados no banco; puxar os nome dos aumigos)
+
+CONFIRMA AGENDAMENTO -> FRONT NO (adicionar link de retorno) / BACK NO (puxar o nome do pet e o serviço escolhido; conexão e inserção dos dados no banco; adicionar logo)
+
+PAINEL -> FRONT NO (arrumar a responsividade dos botões; estilizar melhor os cards) / BACK NO (puxada de dados; conexão e inserção dos dados no banco)
+
+AGENDAMENTO -> 
+
+TELA DE ERRO -> OK
+
+PROTECT -> OK
+
+PERFIL DO CLIENTE -> editar, adicionar pet, listar pets ! ! ! ! ! ! ! !
+
+SITEMAP ->
